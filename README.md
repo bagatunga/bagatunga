@@ -8,7 +8,7 @@ Bienvenido/a a mi perfil de GitHub. Me apasiona la tecnología, el desarrollo de
 - 💻 Me gusta programar en: `Java`, `JavaScript`, `HTML/CSS`.
 - 🌱 En este momento estoy aprendiendo: `Git`, `Java`, `JavaScript` y `SQL`.
 - 🧰 Herramientas: `Git`, `GitHub`, `VS Code`, `IntelliJ` 
-- 🔭 Estoy trabajando en: proyectos del instituto para fortalecer mis habilidades.
+- 🔭 Estoy trabajando en: proyectos para fortalecer mis habilidades. Además trabajo en un hotel como camarera.
 - 📚 Intereses: inteligencia artificial, desarrollo web, videojuegos, ciberseguridad.
 - 🌍 Hablo español (nativo) y estoy mejorando mi inglés técnico. También me gustaría aprender francés.
 
