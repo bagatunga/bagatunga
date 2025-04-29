@@ -19,6 +19,7 @@ Bienvenido/a a mi perfil de GitHub. Me apasiona la tecnología, el desarrollo de
 ## 🛠 Proyectos destacados
 
 Por el momento estoy trabajando en ello — poco a poco iré subiendo proyectos que hago en clase 😊
+- https://github.com/bagatunga/ejercicios-DOM
 
 ---
 
@@ -61,6 +62,7 @@ Welcome to my GitHub profile. I'm passionate about technology, software developm
 ## 🛠 Featured Projects
 
 I'm currently working on it — little by little, I'll be uploading projects I'm doing in class 😊
+- https://github.com/bagatunga/ejercicios-DOM
 
 ---
 
