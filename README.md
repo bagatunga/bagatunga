@@ -48,7 +48,7 @@ Welcome to my GitHub profile. I'm passionate about technology, software developm
 
 ## 🇬🇧 About Me
 
-- 🎓 I'm currently studying Web Application Development.
+- 🎓 I'm currently studying Web Development.
 - 💻 I enjoy programming in: Java, JavaScript, HTML/CSS.
 - 🌱 Right now I'm learning: Git, Java, JavaScript, and SQL.
 - 🧰 Tools I use: Git, GitHub, VS Code, IntelliJ.
