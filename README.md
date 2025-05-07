@@ -34,7 +34,7 @@ Por el momento estoy trabajando en ello — poco a poco iré subiendo proyectos 
 ## 📫 Contacto
 
 - 📧 Correo: anaruizdaw@gmail.com  
-- 💼 LinkedIn: Ana Ruiz
+- 💼 LinkedIn: [Ana Ruiz](https://www.linkedin.com/in/ana-ruiz-montejo/)
 
 ---
 
@@ -77,7 +77,7 @@ I'm currently working on it — little by little, I'll be uploading projects I'm
 ## 📫 Contact
 
 - 📧 Email: anaruizdaw@gmail.com  
-- 💼 LinkedIn: Ana Ruiz
+- 💼 LinkedIn: [ Ana Ruiz](https://www.linkedin.com/in/ana-ruiz-montejo/)
 
 ---
 
