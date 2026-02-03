@@ -8,7 +8,7 @@ Bienvenido/a a mi perfil de GitHub. Me apasiona la tecnología, el desarrollo de
 
 - 🎓 Actualmente estudio Desarrollo de Aplicaciones Web.
 - 💻 Me gusta programar en: Java, JavaScript, HTML/CSS.
-- 🌱 En este momento estoy aprendiendo: Git, Java, JavaScript y SQL.
+- 🌱 En este momento estoy aprendiendo: Git, Java, JavaScript, SQL, Node.js, Angular y SpringBoot.
 - 🧰 Herramientas: Git, GitHub, VS Code, IntelliJ.
 - 🔭 Estoy trabajando en proyectos para fortalecer mis habilidades. Además, trabajo en un hotel como camarera.
 - 📚 Intereses: inteligencia artificial, desarrollo web, videojuegos, ciberseguridad.
@@ -51,7 +51,7 @@ Welcome to my GitHub profile. I'm passionate about technology, software developm
 
 - 🎓 I'm currently studying Web Development.
 - 💻 I enjoy programming in: Java, JavaScript, HTML/CSS.
-- 🌱 Right now I'm learning: Git, Java, JavaScript, and SQL.
+- 🌱 Right now I'm learning: Git, Java, JavaScript, SQL, Node.js, Angular y SpringBoot.
 - 🧰 Tools I use: Git, GitHub, VS Code, IntelliJ.
 - 🔭 I'm working on personal projects to strengthen my skills. I also work as a waitress at a hotel.
 - 📚 Interests: artificial intelligence, web development, video games, cybersecurity.
