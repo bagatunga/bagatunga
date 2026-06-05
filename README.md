@@ -1,84 +1,41 @@
-# 👋 ¡Hola! Soy Ana Ruiz &nbsp;&nbsp;🇪🇸 / 🇬🇧
+# 👋 ¡Hola! Soy Ana Ruiz Montejo
 
-Bienvenido/a a mi perfil de GitHub. Me apasiona la tecnología, el desarrollo de software y aprender cosas nuevas cada día.
+### Desarrolladora Web Junior | Frontend | Angular · JavaScript · HTML · CSS
 
----
+Bienvenido/a a mi perfil de GitHub. Soy técnica de **Desarrollo de Aplicaciones Web** y estoy orientando mi perfil profesional hacia el desarrollo **frontend**, con interés en crear interfaces web claras, funcionales y bien estructuradas.
 
-## 🇪🇸 Sobre mí
-
-- 🎓 Actualmente estudio Desarrollo de Aplicaciones Web.
-- 💻 Me gusta programar en: Java, JavaScript, HTML/CSS.
-- 🌱 En este momento estoy aprendiendo: Git, Java, JavaScript, SQL, Node.js, Angular y SpringBoot.
-- 🧰 Herramientas: Git, GitHub, VS Code, IntelliJ.
-- 🔭 Estoy trabajando en proyectos para fortalecer mis habilidades. Además, trabajo en un hotel como camarera.
-- 📚 Intereses: inteligencia artificial, desarrollo web, videojuegos, ciberseguridad.
-- 🌍 Hablo español (nativo), estoy mejorando mi inglés técnico y me gustaría aprender francés.
+Me gusta aprender construyendo proyectos, entender cómo funcionan las cosas por dentro y mejorar poco a poco mi forma de programar. Actualmente estoy reforzando mis conocimientos en **Angular, JavaScript, TypeScript, HTML y CSS**, sin dejar de lado mi base backend con **Java, Spring Boot y SQL**.
 
 ---
 
-## 🛠 Proyectos destacados
+## 👩‍💻 Sobre mí
 
-Por el momento estoy trabajando en ello — poco a poco iré subiendo proyectos que hago en clase 😊
-- https://github.com/bagatunga/ejercicios-DOM
-
----
-
-## 🌍 Idiomas
-
-- 🇪🇸 Español (nativo)  
-- 🇬🇧 Inglés (intermedio)  
-- 🇫🇷 Francés (me gustaría aprenderlo)
-
----
-
-## 📫 Contacto
-
-- 📧 Correo: anaruizdaw@gmail.com  
-- 💼 LinkedIn: [Ana Ruiz](https://www.linkedin.com/in/ana-ruiz-montejo/)
+- 🎓 Titulada en **CFGS Desarrollo de Aplicaciones Web**.
+- 💻 Interés principal: **frontend y desarrollo web**.
+- 🌱 Actualmente sigo practicando con **Angular, JavaScript, TypeScript, HTML, CSS, Java, Spring Boot y SQL**.
+- 🛠️ También he trabajado con **PHP, MariaDB, Git, GitHub, VS Code, IntelliJ IDEA y FileZilla**.
+- 🚀 He realizado prácticas en empresa, participando en tareas de mantenimiento y actualización de herramientas internas.
+- 🎮 Me interesan el desarrollo web, la inteligencia artificial, los videojuegos y la ciberseguridad.
+- 🌍 Español nativo e inglés avanzado.
 
 ---
 
 
 ---
 
-# 👋 Hi! I'm Ana Ruiz &nbsp;&nbsp;🇬🇧 / 🇪🇸
+# 👋 Hi! I'm Ana Ruiz Montejo
 
-Welcome to my GitHub profile. I'm passionate about technology, software development, and learning something new every day.
+### Junior Web Developer | Frontend-focused | Angular · JavaScript · HTML · CSS
 
----
+Welcome to my GitHub profile. I hold a qualification in **Web Application Development** and I'm currently focusing my professional profile on **frontend development**, with an interest in building clear, functional and well-structured web interfaces.
 
-## 🇬🇧 About Me
+I'm currently improving my skills with **Angular, JavaScript, TypeScript, HTML and CSS**, while also keeping a solid backend foundation with **Java, Spring Boot and SQL**.
 
-- 🎓 I'm currently studying Web Development.
-- 💻 I enjoy programming in: Java, JavaScript, HTML/CSS.
-- 🌱 Right now I'm learning: Git, Java, JavaScript, SQL, Node.js, Angular y SpringBoot.
-- 🧰 Tools I use: Git, GitHub, VS Code, IntelliJ.
-- 🔭 I'm working on personal projects to strengthen my skills. I also work as a waitress at a hotel.
-- 📚 Interests: artificial intelligence, web development, video games, cybersecurity.
-- 🌍 I speak Spanish (native), I'm improving my technical English, and I'd love to learn French too.
+## About me
 
----
-
-## 🛠 Featured Projects
-
-I'm currently working on it — little by little, I'll be uploading projects I'm doing in class 😊
-- https://github.com/bagatunga/ejercicios-DOM
-
----
-
-## 🌍 Languages
-
-- 🇪🇸 Spanish (native)  
-- 🇬🇧 English (learning / intermediate)  
-- 🇫🇷 French (interested in learning)
-
----
-
-## 📫 Contact
-
-- 📧 Email: anaruizdaw@gmail.com  
-- 💼 LinkedIn: [ Ana Ruiz](https://www.linkedin.com/in/ana-ruiz-montejo/)
-
----
-
-Thanks for visiting my profile! 😊
+- 🎓 Qualified in **Web Application Development**.
+- 💻 Main interest: **frontend and web development**.
+- 🌱 Currently practicing with **Angular, JavaScript, TypeScript, HTML, CSS, Java, Spring Boot and SQL**.
+- 🛠️ I have also worked with **PHP, MariaDB, Git, GitHub, VS Code, IntelliJ IDEA and FileZilla**.
+- 🚀 I have completed company training, taking part in maintenance and internal web tool updates.
+- 🌍 Native Spanish speaker with advanced English.
